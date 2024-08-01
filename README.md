@@ -11,6 +11,7 @@ This is a web application for user registration. The frontend is served by a Nod
 ## Technologies Used
 
 - Node.js
+- Java
 - Spring Boot
 - PostgreSQL
 - HTML/CSS/JavaScript
